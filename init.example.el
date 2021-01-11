@@ -85,6 +85,7 @@
 
        :tools
        ;;ansible
+       ;;biblio            ; stand on the shoulders of giants
        ;;debugger          ; FIXME stepping through code, to help you add bugs
        ;;direnv
        ;;docker
